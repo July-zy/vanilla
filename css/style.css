@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.button-bg {
+    background-color: rgba(24, 26, 27,0.8);
+  }
+.button-text {
+--tw-text-opacity: 1;
+color: rgba(116, 242, 242,var(--tw-text-opacity));
+}
